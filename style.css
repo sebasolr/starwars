@@ -1,0 +1,36 @@
+*{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+    color: yellow;
+    font-family: "Star Wars", fantasy;
+}
+img{
+    height: 200px;
+    width: auto;
+}
+ul{
+    list-style: none;
+}
+.los-malos{
+    background-color: red;
+}
+#vader{
+    font-size: 40px;
+}
+.soldados{
+    border: 1px solid black;
+}
+.droidd{
+    text-align: center;
+}
+.los-rebeldes{
+    background-color: blue;
+}
+#luke{
+    font-style: italic;
+}
+.apoyo{
+    text-align: center;
+}
+.naves{
+    text-transform: uppercase;
+}
