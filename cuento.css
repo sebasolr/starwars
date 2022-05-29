@@ -8,9 +8,9 @@ body{
 p{
     width: 540px;
     font-size: 20px;
-    
+    text-align: justify;
     margin: 10px auto;
-    border: 1px solid black;
+    
 }
 tbody{
 border: 1px solid black;
